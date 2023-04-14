@@ -1,12 +1,13 @@
 <h1 align="center">Hi (｡･∀･)ﾉﾞ I'm LonelySnowman ⛄</h1>
 
-
-<img src="./asset/code.gif" />
-
 - 🔭 I am a sophomore majoring in software engineering ~
 - 🏋 I love front-end ~
 - 👻 I love to share, and currently share technical articles at [SnowHouse](https://snowhouse.space) ~
 - 👨‍💻 Welcome to learn and progress together with me ~
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/lonelysnowman/lonelysnowman/imgs/code.gif" />
+</div>
 
 <div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=LonelySnowman" />
