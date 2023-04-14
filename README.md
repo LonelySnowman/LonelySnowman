@@ -1,8 +1,7 @@
 <h1 align="center">Hi (｡･∀･)ﾉﾞ I'm LonelySnowman ⛄</h1>
 
-<br />
-<br />
-<img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
+
+<img src="./asset/code.gif" />
 
 - 🔭 I am a sophomore majoring in software engineering ~
 - 🏋 I love front-end ~
