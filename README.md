@@ -10,10 +10,6 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=LonelySnowman" />
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
