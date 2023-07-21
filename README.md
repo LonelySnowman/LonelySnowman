@@ -30,5 +30,4 @@
 
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LonelySnowman&theme=highcontrast" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonelySnowman&theme=highcontrast&layout=compact" />
 </div>
