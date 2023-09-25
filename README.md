@@ -1,33 +1,64 @@
-<h1 align="center">Hi (｡･∀･)ﾉﾞ I'm LonelySnowman ⛄</h1>
-
-- 🔭 I am a sophomore majoring in software engineering ~
-- 🏋 I love front-end ~
-- 👻 I love to share, and currently share technical articles at [SnowHouse](https://snowhouse.space) ~
-- 👨‍💻 Welcome to learn and progress together with me ~
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/lonelysnowman/lonelysnowman/imgs/code.gif" />
+  <img width="100%" src="https://cdn.jsdelivr.net/gh/lonelysnowman/lonelysnowman/imgs/code.gif" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-vue-33333D?style=flat&logo=vuedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
-  <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
-</div>
+<br>
+
+<center>
+
+# Hi (｡･∀･)ﾉﾞ I'm LonelySnowman ⛄</h1>
+
+**中文** | [English](./README.en-US.md)
+
+[个人博客](https://snowhouse.space) | [掘金](https://juejin.cn/user/550219962923015)
+
+</center>
+
+## 📧基本介绍
+
+- 🎹 普通211大学生，软件工程专业大三在读。
+- 🎷 自从看到学长学姐制作炫酷的网站，命运的齿轮开始转动，踏上了学习前端的不归路。
+
+## 📕实习经历
+
+<center>
+
+| 公司                                 | 时间            | 部门                  | 内容                                           |
+| ------------------------------------ | --------------- | --------------------- | ---------------------------------------------- |
+| [京东](https://about.jd.com/company) | 2023/7 ~ 至今   | 京东健康-技术产品部   | 京东医生相关业务开发迭代，mpaas化平台建设      |
+| [浪潮](https://www.inspur.com)       | 2023/4 ~ 2023/5 | 浪潮智能终端-AI研发部 | 多模态交互平台业务开发迭代，内部组件库搭建维护 |
+
+
+
+</center>
+
+
+## 🎓技术栈
+
+<center>
+
+[![My Skills](https://skillicons.dev/icons?i=vue,react)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=webpack,vite,rollup)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,python,java)](https://skillicons.dev)
+
+</center>
+
+## 📝个人项目
+
+<center>
+
+| 项目名称     | 项目介绍                         | 项目数据                                                     | 相关连接                                                     |
+| ------------ | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| sv3-template | 一个开箱即用的`Vue3`快速开发模板 | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template) | [Github](https://github.com/lonelysnowman/sv3-template) \| [Document](https://sv3-docs.snowhouse.space) |
+
+</center>
+
+## 📦GitHub
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
-  <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
-  <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=LonelySnowman&theme=highcontrast" />
 </div>
 
-
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LonelySnowman&theme=highcontrast" />
-</div>
+      
