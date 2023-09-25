@@ -4,7 +4,7 @@
 
 <br>
 
-<center>
+<div align="center">
 
 # Hi (｡･∀･)ﾉﾞ I'm LonelySnowman ⛄</h1>
 
@@ -12,7 +12,7 @@
 
 [个人博客](https://snowhouse.space) | [掘金](https://juejin.cn/user/550219962923015)
 
-</center>
+</div>
 
 ## 📧基本介绍
 
@@ -21,21 +21,19 @@
 
 ## 📕实习经历
 
-<center>
+<div align="center">
 
 | 公司                                 | 时间            | 部门                  | 内容                                           |
 | ------------------------------------ | --------------- | --------------------- | ---------------------------------------------- |
 | [京东](https://about.jd.com/company) | 2023/7 ~ 至今   | 京东健康-技术产品部   | 京东医生相关业务开发迭代，mpaas化平台建设      |
 | [浪潮](https://www.inspur.com)       | 2023/4 ~ 2023/5 | 浪潮智能终端-AI研发部 | 多模态交互平台业务开发迭代，内部组件库搭建维护 |
 
-
-
-</center>
+</div>
 
 
 ## 🎓技术栈
 
-<center>
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=vue,react)](https://skillicons.dev)
 
@@ -43,17 +41,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,python,java)](https://skillicons.dev)
 
-</center>
+</div>
 
 ## 📝个人项目
 
-<center>
+<div align="center">
 
 | 项目名称     | 项目介绍                         | 项目数据                                                     | 相关连接                                                     |
 | ------------ | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | sv3-template | 一个开箱即用的`Vue3`快速开发模板 | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template) | [Github](https://github.com/lonelysnowman/sv3-template) \| [Document](https://sv3-docs.snowhouse.space) |
 
-</center>
+</div>
 
 ## 📦GitHub
 
