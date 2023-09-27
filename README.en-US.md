@@ -1,10 +1,4 @@
 <div align="center">
-  <img width="100%" src="https://cdn.jsdelivr.net/gh/lonelysnowman/lonelysnowman/imgs/code.gif" />
-</div>
-
-<br>
-
-<div align="center">
 
 # Hi (｡･∀･)ﾉﾞ I'm LonelySnowman ⛄</h1>
 
@@ -23,7 +17,7 @@
 
 <div align="center">
 
-| Company                            | Time            | 部门                                                    | 内容                                                         |
+| Company                            | Time            | Section                                                    | Introduction                                                         |
 | ---------------------------------- | --------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
 | [JD](https://about.jd.com/company) | 2023/7 ~ Now    | JD Health-Technical products department                 | JD doctor related business development iteration, mpaas platform construction |
 | [Inspur](https://www.inspur.com)   | 2023/4 ~ 2023/5 | Inspur intelligent terminal - AI Development Department | Multi-modal interactive platform business development iteration, internal component library construction and maintenance |
@@ -47,7 +41,7 @@
 
 <div align="center">
 
-| 项目名称     | 项目介绍                         | 项目数据                                                     | 相关连接                                                     |
+| Name     | Introduction                         | Data                                                     | Link                                                     |
 | ------------ | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | sv3-template | An out-of-the-box `Vue3` rapid development template | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template) | [Github](https://github.com/lonelysnowman/sv3-template) \| [Document](https://sv3-docs.snowhouse.space) |
 
@@ -55,8 +49,9 @@
 
 ## 📦GitHub
 
-<div align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=LonelySnowman&theme=highcontrast" />
+<div style="display: flex; justify-content: space-around;" >
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=LonelySnowman&theme=highcontrast" />
+  <img width="40%" src="https://cdn.jsdelivr.net/gh/lonelysnowman/lonelysnowman/imgs/code.gif" />
 </div>
 
       

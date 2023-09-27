@@ -1,10 +1,4 @@
 <div align="center">
-  <img width="100%" src="https://cdn.jsdelivr.net/gh/lonelysnowman/lonelysnowman/imgs/code.gif" />
-</div>
-
-<br>
-
-<div align="center">
 
 # Hi (｡･∀･)ﾉﾞ I'm LonelySnowman ⛄</h1>
 
@@ -55,8 +49,8 @@
 
 ## 📦GitHub
 
-<div align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=LonelySnowman&theme=highcontrast" />
+<div style="display: flex; justify-content: space-around;" >
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=LonelySnowman&theme=highcontrast" />
+  <img width="40%" src="https://cdn.jsdelivr.net/gh/lonelysnowman/lonelysnowman/imgs/code.gif" />
 </div>
-
       
