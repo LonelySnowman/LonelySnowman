@@ -17,10 +17,10 @@
 
 <div align="center">
 
-| Company                            | Time            | Section                                                    | Introduction                                                         |
-| ---------------------------------- | --------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
-| [JD](https://about.jd.com/company) | 2023/7 ~ Now    | JD Health-Technical products department                 | JD doctor related business development iteration, mpaas platform construction |
-| [Inspur](https://www.inspur.com)   | 2023/4 ~ 2023/5 | Inspur intelligent terminal - AI Development Department | Multi-modal interactive platform business development iteration, internal component library construction and maintenance |
+| Company                            | Time             | Section                                                    | Introduction                                                         |
+| ---------------------------------- |------------------| ------------------------------------------------------- | ------------------------------------------------------------ |
+| [JD](https://about.jd.com/company) | 2023/7 ~ 2023/11 | JD Health-Technical products department                 | JD doctor related business development iteration, mpaas platform construction |
+| [Inspur](https://www.inspur.com)   | 2023/4 ~ 2023/5  | Inspur intelligent terminal - AI Development Department | Multi-modal interactive platform business development iteration, internal component library construction and maintenance |
 
 </div>
 
