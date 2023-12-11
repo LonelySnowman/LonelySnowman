@@ -4,7 +4,7 @@
 
 [中文](./README.md) | **English**
 
-[Blog](https://snowhouse.space) | [JueJin](https://juejin.cn/user/550219962923015)
+[Blog](https://snowhouse.space) | [JueJin](https://juejin.cn/user/550219962923015/posts)
 
 </div>
 
