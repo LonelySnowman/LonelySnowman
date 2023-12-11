@@ -4,7 +4,7 @@
 
 **中文** | [English](./README.en-US.md)
 
-[个人博客](https://snowhouse.space) | [掘金](https://juejin.cn/user/550219962923015)
+[个人博客](https://snowhouse.space) | [掘金](https://juejin.cn/user/550219962923015/posts)
 
 </div>
 
