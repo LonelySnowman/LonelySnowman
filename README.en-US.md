@@ -13,6 +13,14 @@
 - 🎹 General 211 college student, software engineering major in the third year.
 - 🎷 Since seeing senior students making cool websites, the gears of fate began to turn and embarked on the road of no return to the front of learning.
 
+## 🚀Open source experience
+
+<div align="center">
+
+[@ant-design](https://github.com/DouyinFE/semi-design) • [@semi-design](https://juejin.cn/user/550219962923015/posts) • [@halo](https://github.com/halo-dev/halo)
+
+</div>
+
 ## 📕Internship experience
 
 <div align="center">

@@ -13,6 +13,14 @@
 - 🎹 普通211大学生，软件工程专业大三在读。
 - 🎷 自从看到学长学姐制作炫酷的网站，命运的齿轮开始转动，踏上了学习前端的不归路。
 
+## 🚀开源经历
+
+<div align="center">
+
+[@ant-design](https://github.com/DouyinFE/semi-design) • [@semi-design](https://juejin.cn/user/550219962923015/posts) • [@halo](https://github.com/halo-dev/halo)
+
+</div>
+
 ## 📕实习经历
 
 <div align="center">
