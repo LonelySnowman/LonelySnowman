@@ -8,9 +8,9 @@
 
 </div>
 
-## 📧Base info
+## 📧Base Info
 
-- 🎹 General 211 college student, software engineering major in the third year.
+- 🎹 General college student, software engineering major in the third year.
 - 🎷 Since seeing senior students making cool websites, the gears of fate began to turn and embarked on the road of no return to the front of learning.
 
 ## 🚀Open source experience
@@ -21,7 +21,7 @@
 
 </div>
 
-## 📕Internship experience
+## 📕Internship Experience
 
 <div align="center">
 
@@ -45,7 +45,9 @@
 
 </div>
 
-## 📝Personal project
+## 📝Personal Project
+
+### 🌊Web Infra
 
 <div align="center">
 
@@ -54,6 +56,17 @@
 | sv3-template | An out-of-the-box `Vue3` rapid development template | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template) | [Github](https://github.com/lonelysnowman/sv3-template) \| [Document](https://sv3-docs.snowhouse.space) |
 | snow-design  | Easy to get started and learn 'React' component library    | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/snow-design)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/snow-design)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/snow-deisgn) | [Github](https://github.com/LonelySnowman/snow-design) \| [Document](https://snow-design.snowhouse.space/) |
 
+</div>
+
+### 💻Principle Learning
+
+<div align="center">
+
+| Project Name | Project Introduction | Related Links |
+|--------------|---------------|---------------------------------------------------------|
+| mini-react | `React` simple implementation | [Github](https://github.com/LonelySnowman/mini-react) |
+| mini-vite | `Vite` simple implementation | [Github](https://github.com/LonelySnowman/mini-vite) |
+| mini-webpack | `Webpack` simple implementation | [Github](https://github.com/LonelySnowman/mini-webpack) |
 </div>
 
 ## 📦GitHub

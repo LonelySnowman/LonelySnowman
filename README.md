@@ -10,7 +10,7 @@
 
 ## 📧基本介绍
 
-- 🎹 普通211大学生，软件工程专业大三在读。
+- 🎹 普通大学生，软件工程专业大三在读。
 - 🎷 自从看到学长学姐制作炫酷的网站，命运的齿轮开始转动，踏上了学习前端的不归路。
 
 ## 🚀开源经历
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,react,electron)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=webpack,vite,rollup)](https://skillicons.dev)
 
@@ -47,12 +47,26 @@
 
 ## 📝个人项目
 
+### 🌊基础建设
+
 <div align="center">
 
-| 项目名称     | 项目介绍                         | 项目数据                                                     | 相关连接                                                     |
-| ------------ | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| sv3-template | 一个开箱即用的`Vue3`快速开发模板 | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template) | [Github](https://github.com/lonelysnowman/sv3-template) \| [Document](https://sv3-docs.snowhouse.space) |
-| snow-design  | 易于上手与学习的`React`组件库    | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/snow-design)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/snow-design)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/snow-deisgn) | [Github](https://github.com/LonelySnowman/snow-design) \| [Document](https://snow-design.snowhouse.space/) |
+| 项目名称     | 项目介绍                              | 项目数据                                                     | 相关连接                                                     |
+| ------------ |-----------------------------------| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| snow-design  | 易于上手与学习的`React`组件库, F/A 架构兼容多前端框架 | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/snow-design)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/snow-design)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/snow-deisgn) | [Github](https://github.com/LonelySnowman/snow-design) \| [Document](https://snow-design.snowhouse.space/) |
+| sv3-template | 一个开箱即用的`Vue3`快速开发模板               | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template) | [Github](https://github.com/lonelysnowman/sv3-template) \| [Document](https://sv3-docs.snowhouse.space) |
+
+</div>
+
+### 🐱‍👤原理学习
+
+<div align="center">
+
+| 项目名称         | 项目介绍          | 相关连接                                                    |
+|--------------|---------------|---------------------------------------------------------|
+| mini-react   | `React`简易实现   | [Github](https://github.com/LonelySnowman/mini-react)   |
+| mini-vite    | `Vite`简易实现    | [Github](https://github.com/LonelySnowman/mini-vite)    |
+| mini-webpack | `Webpack`简易实现 | [Github](https://github.com/LonelySnowman/mini-webpack) |
 
 </div>
 
