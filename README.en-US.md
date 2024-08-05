@@ -10,7 +10,7 @@
 
 ## 📧Base Info
 
-- 🎹 General college student, software engineering major in the third year.
+- 🎹 General college student, software engineering major in the fourth year.
 - 🎷 Since seeing senior students making cool websites, the gears of fate began to turn and embarked on the road of no return to the front of learning.
 
 ## 🚀Open source experience
