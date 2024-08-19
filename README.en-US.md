@@ -12,6 +12,7 @@
 
 - 🎹 General college student, software engineering major in the fourth year.
 - 🎷 Since seeing senior students making cool websites, the gears of fate began to turn and embarked on the road of no return to the front of learning.
+- 🚗 We have no other time except this life, so we should go as far as we can.
 
 ## 🚀Open source experience
 
