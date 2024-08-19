@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[@ant-design](https://github.com/DouyinFE/semi-design) • [@semi-design](https://juejin.cn/user/550219962923015/posts) • [@halo](https://github.com/halo-dev/halo)
+[@ant-design](https://github.com/ant-design/ant-design/pulls?q=author%3ALonelySnowman) • [@semi-design](https://github.com/DouyinFE/semi-design/pulls?q=author%3ALonelySnowman) • [@halo](https://github.com/halo-dev/halo/pulls?q=author%3ALonelySnowman)
 
 </div>
 
@@ -53,8 +53,8 @@
 
 | Name     | Introduction                         | Data                                                     | Link                                                     |
 | ------------ | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| snow-design  | Easy to get started and learn `Web` component library    | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/snow-design)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/snow-design)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/snow-deisgn) | [Github](https://github.com/LonelySnowman/snow-design) \| [Document](https://snow-design.snowhouse.space/) |
 | sv3-template | An out-of-the-box `Vue3` rapid development template | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template) | [Github](https://github.com/lonelysnowman/sv3-template) \| [Document](https://sv3-docs.snowhouse.space) |
-| snow-design  | Easy to get started and learn 'React' component library    | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/snow-design)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/snow-design)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/snow-deisgn) | [Github](https://github.com/LonelySnowman/snow-design) \| [Document](https://snow-design.snowhouse.space/) |
 
 </div>
 

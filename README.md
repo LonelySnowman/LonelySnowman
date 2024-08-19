@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[@ant-design](https://github.com/DouyinFE/semi-design) • [@semi-design](https://juejin.cn/user/550219962923015/posts) • [@halo](https://github.com/halo-dev/halo)
+[@ant-design](https://github.com/ant-design/ant-design/pulls?q=author%3ALonelySnowman) • [@semi-design](https://github.com/DouyinFE/semi-design/pulls?q=author%3ALonelySnowman) • [@halo](https://github.com/halo-dev/halo/pulls?q=author%3ALonelySnowman)
 
 </div>
 
@@ -51,10 +51,10 @@
 
 <div align="center">
 
-| 项目名称     | 项目介绍                             | 项目数据                                                     | 相关连接                                                     |
-| ------------ |----------------------------------| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| snow-design  | 易于上手与学习的`React`组件库 | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/snow-design)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/snow-design)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/snow-deisgn) | [Github](https://github.com/LonelySnowman/snow-design) \| [Document](https://snow-design.snowhouse.space/) |
-| sv3-template | 一个开箱即用的`Vue3`快速开发模板              | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template) | [Github](https://github.com/lonelysnowman/sv3-template) \| [Document](https://sv3-docs.snowhouse.space) |
+| 项目名称     | 项目介绍                | 项目数据                                                     | 相关连接                                                     |
+| ------------ |---------------------| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| snow-design  | 易于上手与学习的`Web`组件库    | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/snow-design)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/snow-design)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/snow-deisgn) | [Github](https://github.com/LonelySnowman/snow-design) \| [Document](https://snow-design.snowhouse.space/) |
+| sv3-template | 一个开箱即用的`Vue3`快速开发模板 | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template) | [Github](https://github.com/lonelysnowman/sv3-template) \| [Document](https://sv3-docs.snowhouse.space) |
 
 </div>
 
