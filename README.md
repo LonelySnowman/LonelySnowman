@@ -12,6 +12,7 @@
 
 - 🎹 普通大学生，软件工程专业大四在读。
 - 🎷 自从看到学长学姐制作炫酷的网站，命运的齿轮开始转动，踏上了学习前端的不归路。
+- 📕 曾在字节跳动、京东和浪潮实习。
 - 🚗 除了这一生，我们又没有别的时间，能走多远，就走多远。
 
 ## 🚀开源经历
@@ -19,18 +20,6 @@
 <div align="center">
 
 [@ant-design](https://github.com/ant-design/ant-design/pulls?q=author%3ALonelySnowman) • [@semi-design](https://github.com/DouyinFE/semi-design/pulls?q=author%3ALonelySnowman) • [@halo](https://github.com/halo-dev/halo/pulls?q=author%3ALonelySnowman)
-
-</div>
-
-## 📕实习经历
-
-<div align="center">
-
-| 公司                                   | 时间               | 部门                  | 内容                                      |
-| -------------------------------------- |------------------| --------------------- | ----------------------------------------- |
-| [字节跳动](https://www.bytedance.com/) | 2024/1 ~ 2024/8  | Data-Tns-FE           | TikTok审核平台人审方向建设                |
-| [京东](https://about.jd.com/company)   | 2023/7 ~ 2023/11 | 京东健康-技术产品部   | 京东医生相关业务开发迭代，mpaas化平台建设 |
-| [浪潮](https://www.inspur.com)         | 2023/4 ~ 2023/5  | 浪潮智能终端-AI研发部 | 多模态交互平台业务开发迭代                |
 
 </div>
 

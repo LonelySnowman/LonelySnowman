@@ -12,6 +12,7 @@
 
 - 🎹 General college student, software engineering major in the fourth year.
 - 🎷 Since seeing senior students making cool websites, the gears of fate began to turn and embarked on the road of no return to the front of learning.
+- 📕 Internship in ByteDance, JD and Inspur before.
 - 🚗 We have no other time except this life, so we should go as far as we can.
 
 ## 🚀Open source experience
@@ -19,18 +20,6 @@
 <div align="center">
 
 [@ant-design](https://github.com/ant-design/ant-design/pulls?q=author%3ALonelySnowman) • [@semi-design](https://github.com/DouyinFE/semi-design/pulls?q=author%3ALonelySnowman) • [@halo](https://github.com/halo-dev/halo/pulls?q=author%3ALonelySnowman)
-
-</div>
-
-## 📕Internship Experience
-
-<div align="center">
-
-| Company                                 | Time             | Section                                                 | Introduction                                                 |
-| --------------------------------------- |------------------| ------------------------------------------------------- | ------------------------------------------------------------ |
-| [ByteDance](https://www.bytedance.com/) | 2024/1 ~ 2024/8  | Data - Tns - FE                                         | TikTok audit platform human review direction construction    |
-| [JD](https://about.jd.com/company)      | 2023/7 ~ 2023/11 | JD Health - Technical products department               | JD doctor related business development iteration, mpaas platform construction |
-| [Inspur](https://www.inspur.com)        | 2023/4 ~ 2023/5  | Inspur intelligent terminal - AI Development Department | Multi-modal interactive platform business development iteration |
 
 </div>
 
