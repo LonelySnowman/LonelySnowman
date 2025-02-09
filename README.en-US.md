@@ -15,7 +15,7 @@
 - 📕 Internship in ByteDance, JD and Inspur before.
 - 🚗 We have no other time except this life, so we should go as far as we can.
 
-## 🚀Open source experience
+## 🚀Open Source Contributions
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 
 </div>
 
-## 🎓My technique
+## 🎓My Technique
 
 <div align="center">
 
@@ -43,8 +43,9 @@
 
 | Name     | Introduction                         | Data                                                     | Link                                                     |
 | ------------ | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| snow-design  | Easy to get started and learn `Web` component library    | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/snow-design)](https://github.com/lonelysnowman/snow-design)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/snow-design)](https://github.com/lonelysnowman//snow-design)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/snow-design)](https://github.com/lonelysnowman/snow-deisgn) | [Github](https://github.com/LonelySnowman/snow-design) \| [Document](https://snow-design.snowhouse.space/) |
-| sv3-template | An out-of-the-box `Vue3` rapid development template | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template) | [Github](https://github.com/lonelysnowman/sv3-template) \| [Document](https://sv3-docs.snowhouse.space) |
+| snow-design  | Easy to get started and learn `Web` component library    | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/snow-design)](https://github.com/lonelysnowman/snow-design)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/snow-design)](https://github.com/lonelysnowman/snow-design)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/snow-design)](https://github.com/LonelySnowman/snow-design/issues)       | [Github](https://github.com/LonelySnowman/snow-design) \| [Document](https://snow-design.snowhouse.space) |
+| sv3-template | An out-of-the-box `Vue3` rapid development template | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/forks/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template)[![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/LonelySnowman/sv3-template/issues) | [Github](https://github.com/LonelySnowman/sv3-template) \| [Document](https://sv3-docs.snowhouse.space) |
+
 
 </div>
 
