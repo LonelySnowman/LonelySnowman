@@ -19,19 +19,9 @@
 
 <div align="center">
 
-[@ant-design](https://github.com/ant-design/ant-design/pulls?q=author%3ALonelySnowman) • [@semi-design](https://github.com/DouyinFE/semi-design/pulls?q=author%3ALonelySnowman) • [@halo](https://github.com/halo-dev/halo/pulls?q=author%3ALonelySnowman)
+[@ant-design](https://github.com/ant-design/ant-design/pulls?q=author%3ALonelySnowman) • [@semi-design](https://github.com/DouyinFE/semi-design/pulls?q=author%3ALonelySnowman) • [@halo](https://github.com/halo-dev/halo/pulls?q=author%3ALonelySnowman) • [@rspress](https://github.com/web-infra-dev/rspress/pulls?q=is%3Apr+author%3ALonelySnowman) • [@rspack](https://github.com/web-infra-dev/rspack/pulls?q=is%3Apr+author%3ALonelySnowman)
 
-</div>
-
-## 🎓技术栈
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=vue,react,electron)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=webpack,vite,rollup)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,python,java)](https://skillicons.dev)
+希望我的代码能帮到你，你可以考虑[向我捐赠](https://opencollective.com/snowflake-team/donate)。
 
 </div>
 
