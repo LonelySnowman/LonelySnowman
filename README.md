@@ -27,34 +27,18 @@
 
 ## 📝个人项目
 
-### 🌊基础建设
 
 <div align="center">
 
 | 项目名称     | 项目介绍                     | 项目数据                                                                                                                                                                                                                                                                                                                                                                                              | 相关连接                                                     |
 | ------------ |--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------ |
 | rspack-deno-plugin | 使`Rspack`在`Deno`中正常运行的插件 | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/rspack-deno-plugin)](https://github.com/lonelysnowman/rspack-deno-plugin) [![My Skills](https://img.shields.io/github/forks/LonelySnowman/rspack-deno-plugin)](https://github.com/lonelysnowman/rspack-deno-plugin) [![My Skills](https://img.shields.io/github/issues/LonelySnowman/rspack-deno-plugin)](https://github.com/LonelySnowman/rspack-deno-plugin/issues) | [Github](https://github.com/LonelySnowman/rspack-deno-plugin) |
-| snow-design  | 易于上手与学习的`Web`组件库         | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/snow-design)](https://github.com/lonelysnowman/snow-design) [![My Skills](https://img.shields.io/github/forks/LonelySnowman/snow-design)](https://github.com/lonelysnowman/snow-design) [![My Skills](https://img.shields.io/github/issues/LonelySnowman/snow-design)](https://github.com/LonelySnowman/snow-design/issues)       | [Github](https://github.com/LonelySnowman/snow-design) \| [Document](https://snow-design.snowhouse.space) |
-| sv3-template | 一个开箱即用的`Vue3`快速开发模板      | [![My Skills](https://img.shields.io/github/stars/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template) [![My Skills](https://img.shields.io/github/forks/LonelySnowman/sv3-template)](https://github.com/lonelysnowman/sv3-template) [![My Skills](https://img.shields.io/github/issues/LonelySnowman/sv3-template)](https://github.com/LonelySnowman/sv3-template/issues) | [Github](https://github.com/LonelySnowman/sv3-template) \| [Document](https://sv3-docs.snowhouse.space) |
-
-</div>
-
-### 💻原理学习
-
-<div align="center">
-
-| 项目名称         | 项目介绍          | 相关连接                                                    |
-|--------------|---------------|---------------------------------------------------------|
-| mini-react   | `React`简易实现   | [Github](https://github.com/LonelySnowman/mini-react)   |
-| mini-vite    | `Vite`简易实现    | [Github](https://github.com/LonelySnowman/mini-vite)    |
-| mini-webpack | `Webpack`简易实现 | [Github](https://github.com/LonelySnowman/mini-webpack) |
 
 </div>
 
 ## 📦GitHub
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=LonelySnowman&theme=highcontrast" />
   <img width="40%" src="https://cdn.jsdelivr.net/gh/lonelysnowman/lonelysnowman/imgs/code.gif" />
 </div>
       
